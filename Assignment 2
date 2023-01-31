@@ -3,4 +3,4 @@ counter=0
 while number!=0:
     number=number//10
     counter=counter+1
-print('the numbers in given nimber is:',counter)
+print('the numbers in given number is:',counter)
